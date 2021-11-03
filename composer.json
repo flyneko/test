@@ -1,0 +1,7 @@
+{
+  "name": "shiroleer/tiktok_mobile_api",
+  "description": "TikTok Mobile API",
+  "require" : {
+    "laravel/lumen-framework": "^8.3.1"
+  }
+}
